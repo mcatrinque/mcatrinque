@@ -96,9 +96,7 @@ Técnico de Data Center, Setembro 2010 - Atual
 - Sistemas Operacionais: Linux, Windows.
 - Virtualização: Hyper-V, Docker.
 - Plataformas em Nuvem: Azure.
-- Monitoração
-
- e Backup: Zabbix, Spectrum, Netbackup.
+- Monitoração e Backup: Zabbix, Spectrum, Netbackup.
 
 ### Experiência Voluntária
 - Programação 101, Universidade Federal de Minas Gerais (UFMG), Março de 2019
