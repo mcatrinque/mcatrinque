@@ -1,24 +1,58 @@
-# MATEUS REZENDE DE SÁ CATRINQUE
+# Mateus Rezende de Sá Catrinque
 
-📚 Currently pursuing: M.Sc. in Computer Science at UFMG
+[LinkedIn](https://www.linkedin.com/in/mcatrinque) | [GitHub](https://github.com/mcatrinque)
 
-📍 Based in: Belo Horizonte, Brazil
+[Português](#portugues) | [English](#english)
 
-🌐 [LinkedIn](https://www.linkedin.com/in/mcatrinque) 
+---
 
-[🇧🇷 Português](#portugues) | [🇺🇸 English](#english)
+## Português
+
+### Resumo
+Estudante de mestrado em Ciências da Computação na UFMG, interessado em desenvolver e apoiar serviços de coleta, gerenciamento e modelagem de dados para análise e tomada de decisão. Atuei no serviço público na área de monitoração e suporte aos sistemas da prefeitura de Belo Horizonte. Mais recentemente, tenho trabalhado no processo de desenvolvimento do mecanismo de busca e modelagem de dados para obtenção de informações de endereços para o Ministério Público de Minas Gerais (Brasil).
+
+### Formação Acadêmica
+- M.Sc. Computer Science, Universidade Federal de Minas Gerais (UFMG), Agosto 2022 - Julho 2024
+- B.Sc. Sistemas de Informação, Universidade Federal de Minas Gerais (UFMG), Março 2016 - Março 2022
+- Técnico de Informática, Serviço Nacional de Aprendizagem Industrial (SENAI), Fevereiro 2008 - Agosto 2009
+
+### Experiência Profissional
+#### Ministério Público de Minas Gerais / Departamento de Ciência da Computação (UFMG)
+Pesquisador, Setembro 2022 - Atual
+- Condução de pesquisa e desenvolvimento de abordagens para geocodificação de endereços.
+- Desenvolvimento de uma API de busca de endereço georreferenciada.
+
+#### Prodabel - Empresa de Informática e Informação do Município de Belo Horizonte
+Técnico de Data Center, Setembro 2010 - Atual
+- Monitoração e suporte de infraestrutura dos sistemas no Data Center da Prefeitura de Belo Horizonte.
+- Desenvolvimento de automatizações do processo de transferência de dados entre servidores.
+
+### Projetos e Publicações
+- Desenvolvimento de geocódigo para geocodificação absoluta (Julho 2022)
+- Agrupamento de endereços georreferenciados para a delimitação de áreas postais (Novembro 2022)
+
+### Habilidades Técnicas
+- Linguagens de Programação: Python, C++, C, Shell Script.
+- Ferramentas para Ciência de Dados: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn.
+- Banco de Dados: SQL, PostgreSQL.
+- Ferramentas GIS: PostGIS, QGIS.
+- Sistemas Operacionais: Linux, Windows.
+- Virtualização: Hyper-V, Docker.
+- Plataformas em Nuvem: Azure.
+- Monitoração e Backup: Zabbix, Spectrum, Netbackup.
+
+### Proficiência em Línguas
+- Português: Nativo.
+- Inglês: Intermediário (Nível B2)
+
 ---
 
 ## English
 
-### Bio
-👋 Hi there! I'm Mateus Rezende de Sá Catrinque, a graduate student pursuing a Master's degree in Computer Science at UFMG. My passion lies in developing and supporting data collection, management, and modeling services for analysis and decision-making.
+### Biography
+A graduate researcher working on developing a search engine API that explores data from different resources to obtain Brazilian address information for the Minas Gerais Public Prosecutor's Office (MPMG).
 
-🔍 Currently, I am deeply involved in the development of a search engine API and data modeling process to extract valuable address information for the Minas Gerais Public Prosecutor's Office (MPMG) in Brazil. My focus is on harnessing data from various sources to empower efficient decision-making processes.
-
-💼 With over 12 years of experience, I have a background in critical systems support, server resource management, and data pipeline construction. I've previously worked in the public sector, specifically in monitoring and supporting systems for the municipality of Belo Horizonte.
-
-🚀 Excited about the intersection of technology and data, I am committed to advancing the field and contributing to impactful projects. Let's connect and explore the possibilities of leveraging data for meaningful insights!
+A data specialist with over 12 years of experience in critical systems support, managing servers resources, and building data pipelines. Recently, I've been working as a graduate researcher, developing a search engine API that explores data from different resources to obtain Brazilian address information for the Minas Gerais Public Prosecutor's Office (MPMG).
 
 ### Education
 - M.Sc. Computer Science, Federal University of Minas Gerais (UFMG), August 2022 - July 2024
@@ -56,49 +90,3 @@ Data Center Operations Specialist, September 2010 - Present
 ### Volunteer Experience
 - Programming 101, Federal University of Minas Gerais (UFMG), March 2019
   - Participated as a volunteer instructor in a project that aims to teach basic C and Python programming to college freshmen.
---- 
-
-## Português
-
-### Sobre
-👋 Olá! Eu sou o Mateus Rezende de Sá Catrinque, um estudante de mestrado em Ciências da Computação na UFMG. Meu interesse está em desenvolver e apoiar serviços de coleta, gerenciamento e modelagem de dados para análise e tomada de decisão.
-
-🔍 Atualmente, estou profundamente envolvido no desenvolvimento de uma API de mecanismo de busca e no processo de modelagem de dados para obter informações de endereços para o Ministério Público de Minas Gerais (MPMG), no Brasil. Meu foco está em aproveitar dados de diversas fontes para potencializar processos eficientes de tomada de decisão.
-
-💼 Com mais de 12 anos de experiência, tenho uma trajetória em suporte a sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Trabalhei anteriormente no setor público, especialmente em monitoramento e suporte a sistemas para a prefeitura de Belo Horizonte.
-
-🚀 Animado com a interseção entre tecnologia e dados, estou comprometido em avançar no campo e contribuir para projetos impactantes. Vamos conectar e explorar as possibilidades de aproveitar dados para insights significativos!
-
-### Formação Acadêmica
-- M.Sc. Computer Science, Universidade Federal de Minas Gerais (UFMG), Agosto 2022 - Julho 2024
-- B.Sc. Sistemas de Informação, Universidade Federal de Minas Gerais (UFMG), Março 2016 - Março 2022
-- Técnico de Informática, Serviço Nacional de Aprendizagem Industrial (SENAI), Fevereiro 2008 - Agosto 2009
-
-### Experiência Profissional
-#### Ministério Público de Minas Gerais / Departamento de Ciência da Computação (UFMG)
-Pesquisador, Setembro 2022 - Atual
-- Condução de pesquisa e desenvolvimento de abordagens para geocodificação de endereços.
-- Desenvolvimento de uma API de busca de endereço georreferenciada.
-
-#### Prodabel - Empresa de Informática e Informação do Município de Belo Horizonte
-Técnico de Data Center, Setembro 2010 - Atual
-- Monitoração e suporte de infraestrutura dos sistemas no Data Center da Prefeitura de Belo Horizonte.
-- Desenvolvimento de automatizações do processo de transferência de dados entre servidores.
-
-### Projetos e Publicações
-- Desenvolvimento de geocódigo para geocodificação absoluta (Julho 2022)
-- Agrupamento de endereços georreferenciados para a delimitação de áreas postais (Novembro 2022)
-
-### Habilidades Técnicas
-- Linguagens de Programação: Python, C++, C, Shell Script.
-- Ferramentas para Ciência de Dados: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn.
-- Banco de Dados: SQL, PostgreSQL.
-- Ferramentas GIS: PostGIS, QGIS.
-- Sistemas Operacionais: Linux, Windows.
-- Virtualização: Hyper-V, Docker.
-- Plataformas em Nuvem: Azure.
-- Monitoração e Backup: Zabbix, Spectrum, Netbackup.
-
-### Proficiência em Línguas
-- Português: Nativo.
-- Inglês: Intermediário (Nível B2)
