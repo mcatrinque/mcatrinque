@@ -104,3 +104,7 @@ Técnico de Data Center, Setembro 2010 - Atual
 ### Proficiência em Línguas
 - Português: Nativo.
 - Inglês: Intermediário (Nível B2)
+
+### Experiência Voluntária
+- Programação 101, Universidade Federal de Minas Gerais (UFMG), Março de 2019
+  - Participei como instrutor voluntário em um projeto que tem como objetivo ensinar programação básica em C e Python para calouros universitários.
