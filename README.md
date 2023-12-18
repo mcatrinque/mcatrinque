@@ -17,7 +17,7 @@ I'm currently enrolled in the Master's program in Computer Science at UFMG. I ha
 
 🔍 As a graduate researcher, I have been actively involved in innovative approaches to address geocoding, aiming to identify geographic indicators through text analysis. Additionally, I played a crucial role in building the infrastructure for the address search API and extracting valuable data from public sources.
 
-💼 "Throughout my journey, I have demonstrated proficiency in supporting critical systems, managing server resources, and building data pipelines. In addition to my role in the IT Infrastructure sector, I have dedicated myself to personal projects in the field of Data Science, developing some academic projects that can be viewed on my [GitHub Repositories](https://github.com/mcatrinque?tab=repositories).
+💼 Throughout my journey, I have demonstrated proficiency in supporting critical systems, managing server resources, and building data pipelines. In addition to my role in the IT Infrastructure sector, I have dedicated myself to personal projects in the field of Data Science, developing some academic projects that can be viewed on my [GitHub Repositories](https://github.com/mcatrinque?tab=repositories).
 
 ### Education
 - M.Sc. Computer Science, Federal University of Minas Gerais (UFMG), August 2022 - July 2024
