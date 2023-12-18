@@ -15,9 +15,9 @@
 ### Bio
 I'm currently enrolled in the Master's program in Computer Science at UFMG. I have experience as a Postgraduate Researcher at the Public Prosecutor's Office of Minas Gerais (MPMG) and also as a Data Center Technician at Prodabel.
 
-🔍 In my current role, I have been actively involved in innovative approaches for geocoding addresses, seeking to identify geographic indicators through text analysis. Additionally, I've played a crucial role in building the infrastructure for the address search API and extracting valuable data from public sources.
+🔍 As a graduate researcher, I have been actively involved in innovative approaches to address geocoding, aiming to identify geographic indicators through text analysis. Additionally, I played a crucial role in building the infrastructure for the address search API and extracting valuable data from public sources.
 
-💼 Throughout my journey, I've demonstrated proficiency in critical systems support, server resource management, and the construction of data pipelines. Beyond my professional endeavors, I am passionate about data science, and you can explore some of my personal projects on [GitHub Repositories](https://github.com/mcatrinque?tab=repositories).
+💼 "Throughout my journey, I have demonstrated proficiency in supporting critical systems, managing server resources, and building data pipelines. In addition to my role in the IT Infrastructure sector, I have dedicated myself to personal projects in the field of Data Science, developing some academic projects that can be viewed on my [GitHub Repositories](https://github.com/mcatrinque?tab=repositories).
 
 ### Education
 - M.Sc. Computer Science, Federal University of Minas Gerais (UFMG), August 2022 - July 2024
@@ -64,9 +64,9 @@ Data Center Operations Specialist, September 2010 - Present
 
 Atualmente matriculado no programa de Mestrado em Ciência da Computação na UFMG, possuo experiência como Pesquisador de Pós-Graduação no Ministério Público de Minas Gerais (MPMG) e também como Técnico de Data Center na Prodabel.
 
-🔍 No meu papel atual, tenho estado ativamente envolvido em abordagens inovadoras para geocodificação de endereços, buscando identificar indicadores geográficos por meio de análise de texto. Além disso, desempenhei um papel crucial na construção da infraestrutura para a API de busca de endereços e na extração de dados valiosos de fontes públicas.
+🔍 Como pesquisador em programa de Mestrado, tenho estado ativamente envolvido em abordagens inovadoras para a geocodificação de endereços, buscando identificar indicadores geográficos por meio de análise de texto. Além disso, desempenhei um papel crucial na construção da infraestrutura para a API de busca de endereços e na extração de dados valiosos de fontes públicas.
 
-💼 Ao longo da minha jornada, demonstrei proficiência em suporte a sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Além dos meus empreendimentos profissionais, sou apaixonado por ciência de dados, e você pode explorar alguns dos meus projetos pessoais no [Repositório do GitHub](https://github.com/mcatrinque?tab=repositories).
+💼 Ao longo da minha jornada, demonstrei proficiência em suporte a sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Além de minha atuação no setor de Infraestrutura de TI, tenho me dedicado em projetos pessoais na área de Ciência de Dados, desenvolvendo alguns projetos acadêmicos que podem ser vistos no [Repositório do GitHub](https://github.com/mcatrinque?tab=repositories).
 
 ### Formação Acadêmica
 - M.Sc. Computer Science, Universidade Federal de Minas Gerais (UFMG), Agosto 2022 - Julho 2024
