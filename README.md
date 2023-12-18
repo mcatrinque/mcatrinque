@@ -1,12 +1,12 @@
 # MATEUS REZENDE DE SÁ CATRINQUE
 
-[Português](#portugues) | [English](#english)
-
 📚 Currently pursuing: M.Sc. in Computer Science at UFMG
 
 📍 Based in: Belo Horizonte, Brazil
 
 🌐 [LinkedIn](https://www.linkedin.com/in/mcatrinque) 
+
+ [🇺🇸 English](#english) | [🇧🇷 Português](#portugues)
 
 ---
 
