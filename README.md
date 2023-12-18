@@ -6,7 +6,7 @@
 
 🌐 [LinkedIn](https://www.linkedin.com/in/mcatrinque) 
 
-🇧🇷 [Português](#portugues) | 🇺🇸 [English](#english)
+[🇧🇷 Português](#portugues) | [🇺🇸 English](#english)
 ---
 
 ## English
@@ -56,7 +56,6 @@ Data Center Operations Specialist, September 2010 - Present
 ### Volunteer Experience
 - Programming 101, Federal University of Minas Gerais (UFMG), March 2019
   - Participated as a volunteer instructor in a project that aims to teach basic C and Python programming to college freshmen.
-
 --- 
 
 ## Português
