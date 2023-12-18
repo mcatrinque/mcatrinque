@@ -46,7 +46,7 @@ Data Center Operations Specialist, September 2010 - Present
 
 ### Technical Skills
 - Programming Languages: Python, C++, C, Shell Script.
-- Data Science Tools: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn.
+- Data Science Tools: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn, NLTK, Gensim. 
 - Databases: SQL, PostgreSQL.
 - GIS Operations: PostGIS, QGIS.
 - Operating Systems: Linux, Windows.
@@ -93,7 +93,7 @@ Técnico de Data Center, Setembro 2010 - Atual
 
 ### Habilidades Técnicas
 - Linguagens de Programação: Python, C++, C, Shell Script.
-- Ferramentas para Ciência de Dados: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn.
+- Ferramentas para Ciência de Dados: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn, NLTK, Gensim.
 - Banco de Dados: SQL, PostgreSQL.
 - Ferramentas GIS: PostGIS, QGIS.
 - Sistemas Operacionais: Linux, Windows.
