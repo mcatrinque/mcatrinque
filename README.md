@@ -17,7 +17,7 @@
 
 🔍 In my current role, I have been actively involved in innovative approaches for geocoding addresses, seeking to identify geographic indicators through text analysis. Additionally, I've played a crucial role in building the infrastructure for the address search API and extracting valuable data from public sources.
 
-💼 Throughout my journey, I've demonstrated proficiency in critical systems support, server resource management, and the construction of data pipelines. Beyond my professional endeavors, I am passionate about data science, and you can explore some of my personal projects on [GitHub](https://github.com/seuusuario).
+💼 Throughout my journey, I've demonstrated proficiency in critical systems support, server resource management, and the construction of data pipelines. Beyond my professional endeavors, I am passionate about data science, and you can explore some of my personal projects on [GitHub](https://github.com/mcatrinque).
 
 🚀 Excited about technology and its applications, I'm committed to advancing the field and contributing to impactful projects. Let's connect and explore the possibilities of leveraging data for meaningful insights!
 
@@ -67,7 +67,7 @@ Data Center Operations Specialist, September 2010 - Present
 
 🔍 No meu papel atual, tenho estado ativamente envolvido em abordagens inovadoras para geocodificação de endereços, buscando identificar indicadores geográficos por meio de análise de texto. Além disso, desempenhei um papel crucial na construção da infraestrutura para a API de busca de endereços e na extração de dados valiosos de fontes públicas.
 
-💼 Ao longo da minha jornada, demonstrei proficiência em suporte a sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Além dos meus empreendimentos profissionais, sou apaixonado por ciência de dados, e você pode explorar alguns dos meus projetos pessoais no [GitHub](https://github.com/seuusuario).
+💼 Ao longo da minha jornada, demonstrei proficiência em suporte a sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Além dos meus empreendimentos profissionais, sou apaixonado por ciência de dados, e você pode explorar alguns dos meus projetos pessoais no [GitHub](https://github.com/mcatrinque).
 
 🚀 Animado com tecnologia e suas aplicações, estou comprometido em avançar no campo e contribuir para projetos impactantes. Vamos conectar e explorar as possibilidades de aproveitar dados para insights significativos!
 
