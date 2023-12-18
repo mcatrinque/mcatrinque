@@ -6,7 +6,7 @@
 
 🌐 [LinkedIn](https://www.linkedin.com/in/mcatrinque) 
 
- [🇺🇸 English](#english) | [🇧🇷 Português](#portuguese)
+ [🇺🇸 English](#english) | [🇧🇷 Português](#português)
 
 ---
 
