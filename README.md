@@ -18,33 +18,15 @@
 
 ## Technical Skills
 
-### Languages
-- Python (Proficient)
-- C++ (Intermediate)
-- Shell Script (Intermediate)
-
-### Data Science Tools
-- Numpy, Pandas, MatPlotLib
-- Seaborn, SciKit-Learn, NLTK, Gensim
-
-### Databases
-- SQL, PostgreSQL
-
-### GIS Operations
-- PostGIS, QGIS
-
-### Operating Systems
-- Linux, Windows
-
-### Virtualization
-- Hyper-V, Docker
-
-### Cloud Platforms
-- Azure
-
-### Monitoring and Backup
-- Zabbix, Spectrum, Netbackup
-
+- Programming Languages: Python, C++, C, Shell Script.
+- Data Science Tools: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn, NLTK, Gensim. 
+- Databases: SQL, PostgreSQL.
+- GIS Operations: PostGIS, QGIS.
+- Operating Systems: Linux, Windows.
+- Virtualization: Hyper-V, Docker.
+- Cloud Platforms: Azure.
+- Monitoring and Backup: Zabbix, Spectrum, Netbackup.
+  
 ---
 
 ## Sobre
@@ -53,31 +35,12 @@
 💼 Proficiente no suporte a sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Comprometido com projetos pessoais e acadêmicos em Ciência de Dados. Confira meus [Repositórios no GitHub](https://github.com/mcatrinque?tab=repositories).
 
 ## Habilidades Técnicas
-### Linguagens
-- Python (Proficiente)
-- C++ (Intermediário)
-- Shell Script (Intermediário)
-
-### Ferramentas para Ciência de Dados
-- Numpy, Pandas, MatPlotLib
-- Seaborn, SciKit-Learn, NLTK, Gensim
-
-### Bancos de Dados
-- SQL, PostgreSQL
-
-### Operações GIS
-- PostGIS, QGIS
-
-### Sistemas Operacionais
-- Linux, Windows
-
-### Virtualização
-- Hyper-V, Docker
-
-### Plataformas em Nuvem
-- Azure
-
-### Monitoramento e Backup
-- Zabbix, Spectrum, Netbackup
-
+- Linguagens de Programação: Python, C++, C, Shell Script.
+- Ferramentas para Ciência de Dados: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn, NLTK, Gensim.
+- Banco de Dados: SQL, PostgreSQL.
+- Ferramentas GIS: PostGIS, QGIS.
+- Sistemas Operacionais: Linux, Windows.
+- Virtualização: Hyper-V, Docker.
+- Plataformas em Nuvem: Azure.
+- Monitoração e Backup: Zabbix, Spectrum, Netbackup.
 ---
