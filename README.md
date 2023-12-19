@@ -32,7 +32,7 @@
 - Monitoring and Backup: Zabbix, Spectrum, Netbackup.
 
 ## Publications
-- [Clustering Georeferenced Units for Zip Codes Delimitation (November 2022)](http://mtc-m16c.sid.inpe.br/ibi/8JMKD3MGPDW34P/4888LHB)
+- [Clustering Georeferenced Units for Zip Codes Delimitation (November 2022)](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2022/12.16.16.30/doc/thisInformationItemHomePage.html)
   
 ---
 
@@ -54,5 +54,5 @@
 - Monitoração e Backup: Zabbix, Spectrum, Netbackup.
 
 ## Publicações
-- [Agrupamento de Endereços Georreferenciados para a Delimitação de Áreas Postais (November 2022)](http://mtc-m16c.sid.inpe.br/ibi/8JMKD3MGPDW34P/4888LHB)
+- [Agrupamento de Endereços Georreferenciados para a Delimitação de Áreas Postais (November 2022)](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2022/12.16.16.30/doc/thisInformationItemHomePage.html)
 ---
