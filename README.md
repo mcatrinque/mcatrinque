@@ -47,17 +47,6 @@
 
 ---
 
-## GitHub Data Science Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcatrinque&show_icons=true&count_private=true&hide=issues&hide_title=true&hide_rank=true)
-
-### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcatrinque&layout=compact&hide_title=true)
-
-### Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mcatrinque&bg_color=ffffff&color=4A90E2&line=4A90E2&point=4A90E2)
-
----
-
 ## Sobre
 🔍 Como pesquisador de pós-graduação, me especializo em técnicas inovadoras de geocodificação, identificando indicadores geográficos por meio de análise de texto. Principais contribuições incluem a construção de uma infraestrutura para API de busca de endereços e extração de dados valiosos de fontes públicas.
 
@@ -92,12 +81,3 @@
 - Zabbix, Spectrum, Netbackup
 
 ---
-
-## Visão Geral de Ciência de Dados no GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=mcatrinque&show_icons=true&count_private=true&hide=issues&hide_title=true&hide_rank=true)
-
-### Principais Linguagens
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=mcatrinque&layout=compact&hide_title=true)
-
-### Gráfico de Contribuições
-![Gráfico de Contribuições](https://activity-graph.herokuapp.com/graph?username=mcatrinque&bg_color=ffffff&color=4A90E2&line=4A90E2&point=4A90E2)
