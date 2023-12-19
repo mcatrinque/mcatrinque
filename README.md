@@ -33,7 +33,13 @@
 
 ## Publications
 - [Clustering Georeferenced Units for Zip Codes Delimitation (November 2022)](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2022/12.16.16.30/doc/thisInformationItemHomePage.html)
-  
+
+## Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcatrinque&layout=compact)](https://github.com/mcatrinque/github-readme-stats)
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcatrinque&hide=contribs,prs)
+
 ---
 
 ## Sobre
@@ -55,6 +61,11 @@
 
 ## Publicações
 - [Agrupamento de Endereços Georreferenciados para a Delimitação de Áreas Postais (November 2022)](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2022/12.16.16.30/doc/thisInformationItemHomePage.html)
+
+## Principais Linguagens
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcatrinque&layout=compact)](https://github.com/mcatrinque/github-readme-stats)
+
+## Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcatrinque&hide=contribs,prs)
+
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact)](https://github.com/seuusername/github-readme-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&hide=contribs,prs)
