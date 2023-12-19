@@ -58,10 +58,13 @@
 
 ---
 
-''## Stats
+<!--## Stats
 
-''[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcatrinque&layout=compact)](https://github.com/mcatrinque/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcatrinque&layout=compact)](https://github.com/mcatrinque/github-readme-stats)
 
-''![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcatrinque&hide=contribs,prs)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcatrinque&hide=contribs,prs)
 
---- 
+---
+
+-->
+ 
