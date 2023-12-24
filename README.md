@@ -14,9 +14,9 @@
 
 ## Bio
 
-🎓 Graduate Researcher currently enrolled in the Master's program at the Federal University of Minas Gerais (UFMG). Engages in academic projects contributing to the generation and exploratory analysis of geographical data.
+🎓 Graduate Researcher currently enrolled in the Master's program at the Federal University of Minas Gerais (UFMG). Engages in academic projects contributing to the generation and exploratory analysis of geospatial data.
 
-💼 Proficient in handling and supporting critical systems, managing server resources, and building data pipelines. In addition to professional projects, has personal and academic endeavors in the field of Data Science.
+💼 Proficient in handling and supporting critical systems, managing server resources, and building data pipelines. In addition to professional projects, has personal and academic endeavors in the field of data science.
 
 🔍 Check out my repositories on [GitHub](https://github.com/mcatrinque?tab=repositories).
 
@@ -37,9 +37,9 @@
 ---
 
 ## Sobre
-🎓 Pesquisador, cursando o programa de Mestrado pela Universidade Federal de Minas Gerais (UFMG). Desenvolve trabalhos acadêmicos que contribuem para a geração e análise exploratória de dados geográficos. 
+🎓 Pesquisador, cursando o programa de Mestrado pela Universidade Federal de Minas Gerais (UFMG). Desenvolve trabalhos acadêmicos que contribuem para a geração e análise exploratória de dados geoespaciais. 
 
-💼 Proficiente no tratamento e suporte à sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Além dos projetos profissionais, possui projetos pessoais e acadêmicos voltados para a área de Ciência de Dados. 
+💼 Proficiente no tratamento e suporte à sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Além dos projetos profissionais, possui projetos pessoais e acadêmicos voltados para a área de ciência de dados. 
 
 🔍 Confira meus repositórios em [GitHub](https://github.com/mcatrinque?tab=repositories).
  
