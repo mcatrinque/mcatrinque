@@ -14,7 +14,7 @@
 
 ## Bio
 
-🎓 With a Master's degree in Computer Science and extensive experience in data engineering and site reliability engineering, I specialize in leveraging data to drive insights and support strategic decision-making. As a Data Engineer, I've led large-scale ETL processes, implemented robust data quality frameworks, and engineered sophisticated geospatial algorithms. My tenure as a Site Reliability Engineer has equipped me with the skills to manage complex server infrastructures, proactively monitor critical incidents, and optimize data processing workflows.
+🎓 With a Master's degree in Computer Science and extensive experience in Data Engineering and SRE, I specialize in leveraging data to drive insights and support strategic decision-making. As a Data Engineer, I've led large-scale ETL processes, implemented robust data quality frameworks, and engineered sophisticated geospatial algorithms. My tenure as a Site Reliability Engineer has equipped me with the skills to manage complex server infrastructures, proactively monitor critical incidents, and optimize data processing workflows.
 
 💼 Explore my projects on [GitHub](https://github.com/mcatrinque?tab=repositories).
 
@@ -35,7 +35,7 @@
 ---
 
 ## Sobre
-🎓 Com mestrado em Ciência da Computação e vasta experiência em engenharia de dados e engenharia de confiabilidade de site, possuo especialização em utilizar dados para gerar insights e apoiar tomadas de decisão estratégicas. Como Engenheiro de Dados, liderei processos de ETL em larga escala, implementei robustos frameworks de qualidade de dados e desenvolvi algoritmos geoespaciais sofisticados. Minha atuação como Engenheiro de Confiabilidade de Site me proporcionou habilidades para gerenciar infraestruturas complexas de servidores, monitorar proativamente incidentes críticos e otimizar fluxos de processamento de dados.
+🎓 Com mestrado em Ciência da Computação e vasta experiência em Engenharia de Dados e SRE, possuo especialização em utilizar dados para gerar insights e apoiar tomadas de decisão estratégicas. Como Engenheiro de Dados, liderei processos de ETL em larga escala, implementei robustos frameworks de qualidade de dados e desenvolvi algoritmos geoespaciais sofisticados. Minha atuação como Engenheiro de Confiabilidade de Site me proporcionou habilidades para gerenciar infraestruturas complexas de servidores, monitorar proativamente incidentes críticos e otimizar fluxos de processamento de dados.
 
 💼 Confira meus projetos no [GitHub](https://github.com/mcatrinque?tab=repositories).
  
