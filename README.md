@@ -2,7 +2,7 @@
 
 📚 Currently Pursuing: M.Sc. in Computer Science at UFMG
 
-💼 Professions: Data Engineer, Site Reliability Engineer
+💼 Positions: Data Engineer, Site Reliability Engineer
 
 📍 Based in: Belo Horizonte, Brazil
 
