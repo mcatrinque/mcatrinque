@@ -18,7 +18,7 @@
 
 💼 Explore my projects on [GitHub](https://github.com/mcatrinque?tab=repositories).
 
-## Technical Skills
+## Summary Skills
 
 - Programming Languages: Python, C++, C, Shell Script.
 - Data Science Tools: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn, NLTK, Gensim. 
