@@ -1,8 +1,8 @@
-# MATEUS REZENDE DE SÁ CATRINQUE
+# Mateus Rezende de Sá Catrinque
 
 📚 Currently Pursuing: M.Sc. in Computer Science at UFMG
 
-💼 Professions: Graduate Researcher, Data Center Specialist
+💼 Professions: Data Engineer, Site Reliability Engineer
 
 📍 Based in: Belo Horizonte, Brazil
 
@@ -14,11 +14,9 @@
 
 ## Bio
 
-🎓 Graduate Researcher currently enrolled in the Master's program at the Federal University of Minas Gerais (UFMG). Engages in academic projects contributing to the generation and exploratory analysis of geospatial data.
+🎓 With a Master's degree in Computer Science and extensive experience in data engineering and site reliability engineering, I specialize in leveraging data to drive insights and support strategic decision-making. As a Data Engineer, I've led large-scale ETL processes, implemented robust data quality frameworks, and engineered sophisticated geospatial algorithms. My tenure as a Site Reliability Engineer has equipped me with the skills to manage complex server infrastructures, proactively monitor critical incidents, and optimize data processing workflows.
 
-💼 Proficient in handling and supporting critical systems, managing server resources, and building data pipelines. In addition to professional projects, has personal and academic endeavors in the field of data science.
-
-🔍 Check out my repositories on [GitHub](https://github.com/mcatrinque?tab=repositories).
+💼 Explore my projects on [GitHub](https://github.com/mcatrinque?tab=repositories).
 
 ## Technical Skills
 
@@ -37,34 +35,21 @@
 ---
 
 ## Sobre
-🎓 Pesquisador, cursando o programa de Mestrado pela Universidade Federal de Minas Gerais (UFMG). Desenvolve trabalhos acadêmicos que contribuem para a geração e análise exploratória de dados geoespaciais. 
+🎓 Com mestrado em Ciência da Computação e vasta experiência em engenharia de dados e engenharia de confiabilidade de site, possuo especialização em utilizar dados para gerar insights e apoiar tomadas de decisão estratégicas. Como Engenheiro de Dados, liderei processos de ETL em larga escala, implementei robustos frameworks de qualidade de dados e desenvolvi algoritmos geoespaciais sofisticados. Minha atuação como Engenheiro de Confiabilidade de Site me proporcionou habilidades para gerenciar infraestruturas complexas de servidores, monitorar proativamente incidentes críticos e otimizar fluxos de processamento de dados.
 
-💼 Proficiente no tratamento e suporte à sistemas críticos, gerenciamento de recursos de servidores e construção de pipelines de dados. Além dos projetos profissionais, possui projetos pessoais e acadêmicos voltados para a área de ciência de dados. 
-
-🔍 Confira meus repositórios em [GitHub](https://github.com/mcatrinque?tab=repositories).
+💼 Confira meus projetos no [GitHub](https://github.com/mcatrinque?tab=repositories).
  
 ## Habilidades Técnicas
 - Linguagens de Programação: Python, C++, C, Shell Script.
 - Ferramentas para Ciência de Dados: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn, NLTK, Gensim.
 - Banco de Dados: SQL, PostgreSQL.
-- Ferramentas GIS: PostGIS, QGIS.
+- Operações GIS: PostGIS, QGIS.
 - Sistemas Operacionais: Linux, Windows.
 - Virtualização: Hyper-V, Docker.
 - Plataformas em Nuvem: Azure.
-- Monitoração e Backup: Zabbix, Spectrum, Netbackup.
+- Monitoramento e Backup: Zabbix, Spectrum, Netbackup.
 
 ## Publicações
 - [Agrupamento de Endereços Georreferenciados para a Delimitação de Áreas Postais (November 2022)](http://mtc-m16c.sid.inpe.br/col/sid.inpe.br/mtc-m16c/2022/12.16.16.30/doc/thisInformationItemHomePage.html)
 
 ---
-
-<!--## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcatrinque&layout=compact)](https://github.com/mcatrinque/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcatrinque&hide=contribs,prs)
-
----
-
--->
- 
