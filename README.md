@@ -37,14 +37,16 @@
 ---
 
 ## Sobre
-🎓 Com mestrado em Ciência da Computação e vasta experiência em Engenharia de Dados e SRE, possuo especialização em utilizar dados para gerar insights e apoiar tomadas de decisão estratégicas. Como Engenheiro de Dados, liderei processos de ETL em larga escala, implementei robustos frameworks de qualidade de dados e desenvolvi algoritmos geoespaciais sofisticados. Minha atuação como Engenheiro de Confiabilidade de Site me proporcionou habilidades para gerenciar infraestruturas complexas de servidores, monitorar proativamente incidentes críticos e otimizar fluxos de processamento de dados.
+🎓 Cientista de Dados com foco em aprendizado de máquina, ciência de dados e construção de modelos e sistemas de IA escaláveis. Minha experiência abrange engenharia de dados e SRE, onde desenvolvi soluções e trabalhei com grandes volumes de dados para apoiar estratégias baseadas em dados. Atualmente, estou cursando mestrado em Ciência da Computação na UFMG, com foco em processamento de dados geoespaciais, combinando pesquisa acadêmica com experiência na indústria para impulsionar soluções inovadoras.
 
 💼 Confira meus projetos no [GitHub](https://github.com/mcatrinque?tab=repositories).
  
 ## Habilidades Técnicas
 - Linguagens de Programação: Python, C++, C, Shell Script.
+- Big Data e Computação Distribuída: Spark, Databricks.
 - Ferramentas para Ciência de Dados: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn, NLTK, Gensim.
 - Banco de Dados: SQL, PostgreSQL.
+- Controle de Versão: Git, Github.
 - Operações GIS: PostGIS, QGIS.
 - Sistemas Operacionais: Linux, Windows.
 - Virtualização: Hyper-V, Docker.
