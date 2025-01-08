@@ -2,7 +2,7 @@
 
 📚 Currently Pursuing: M.Sc. in Computer Science at UFMG
 
-💼 Positions: Data Engineer, Site Reliability Engineer
+💼 Positions: Data Scientist, Data Engineer
 
 📍 Based in: Belo Horizonte, Brazil
 
@@ -14,15 +14,17 @@
 
 ## Bio
 
-🎓 With a Master's degree in Computer Science and extensive experience in Data Engineering and SRE, I specialize in leveraging data to drive insights and support strategic decision-making. As a Data Engineer, I've led large-scale ETL processes, implemented robust data quality frameworks, and engineered sophisticated geospatial algorithms. My tenure as a Site Reliability Engineer has equipped me with the skills to manage complex server infrastructures, proactively monitor critical incidents, and optimize data processing workflows.
+🎓 Data Scientist focused on machine learning, data science, and building scalable AI models and systems. My experience spans data engineering and site reliability, where I developed solutions and worked with large datasets to support data-driven strategies. Currently pursuing a master's degree in computer science at UFMG, focusing on spatial data processing, I am combining academic research with industry experience to drive innovative solutions.
 
 💼 Explore my projects on [GitHub](https://github.com/mcatrinque?tab=repositories).
 
 ## Summary Skills
 
 - Programming Languages: Python, C++, C, Shell Script.
+- Big Data & Distributed Computing: Spark, Databricks.
 - Data Science Tools: Numpy, Pandas, MatPlotLib, Seaborn, SciKit-Learn, NLTK, Gensim. 
 - Databases: SQL, PostgreSQL.
+- Version Control: Git, GitHub.
 - GIS Operations: PostGIS, QGIS.
 - Operating Systems: Linux, Windows.
 - Virtualization: Hyper-V, Docker.
